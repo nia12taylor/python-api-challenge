@@ -15,4 +15,9 @@ The WeatherPy.ipynb Jupyter notebook in the World_Weather_Analysis folder visual
 - Latitude vs. Cloudiness
 
 ## Vacation Py
-The VacationPy.ipynb Jupyter notebook uses geoviews Python library and GeoAPIfy to plan for a vacation destination. It creates a map of the cities nearest to randomly pick latitude and longitude coordinates. It also shows the humidity, max temperature, wind speed, and cloudiness in the cities. Finally, it filters cities based on specific criteria like temperature and cloudiness and locates hotels for those cities.
+The VacationPy.ipynb Jupyter notebook uses geoviews Python library and GeoAPIfy to plan for a vacation destination. The script does the following:
+
+- Creates a map of the cities nearest to randomly pick latitude and longitude coordinates
+- Shows the humidity, max temperature, wind speed, and cloudiness in the cities 
+- Filters cities based on specific criteria like temperature and cloudiness and locates hotels for those cities
+- Uses these criteria to select the best vacation cities
